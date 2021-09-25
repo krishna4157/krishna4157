@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Soumyadeep</h1>
+<h1 align="center">Hi 👋, I'm Krishna Santosh</h1>
 <h3 align="center">Senior Full Stack Developer from India</h3>
 	
 <!-- <p align="center">
@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently working **Redux, Express, Node.js, python, Typescript, etc.**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/soumyadeephalder?tab=repositories)
+- 👨‍💻 All of my projects are available at [github](https://github.com/krishna4157?tab=repositories)
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Javascript** **React Native** **Expo** 
 
-- 📫 How to reach me **soumyadeephalder1@gmail.com**
+- 📫 How to reach me **krishna.santho08@gmail.com**
 
 
 	

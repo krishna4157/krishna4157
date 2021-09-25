@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/krishna4157?tab=repositories)
 
-- 💬 Ask me about **Javascript** **React Native** **Expo** 
+- 💬 Ask me about **Javascript**, **React Native**, **Expo** 
 
 - 📫 How to reach me **krishna.santho08@gmail.com**
 

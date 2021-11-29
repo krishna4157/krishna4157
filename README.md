@@ -36,7 +36,7 @@
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
 <br/>
 
-[![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishna4157)](https://github.com/krishna4157/github-readme-stats)
+<!-- [![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishna4157)](https://github.com/krishna4157/github-readme-stats) -->
 
 
 ### ⚙️ &nbsp;GitHub Analytics

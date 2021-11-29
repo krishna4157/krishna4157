@@ -36,9 +36,13 @@
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
 <br/>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishna4157)](https://github.com/krishna4157/github-readme-stats)
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
+	
 <a href="https://github.com/soumyadeephalder">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=soumyadeephalder&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=soumyadeephalder&layout=compact&langs_count=8&theme=algolia"/>

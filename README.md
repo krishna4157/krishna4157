@@ -37,7 +37,7 @@
 <br/>
 
 <!-- [![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishna4157)](https://github.com/krishna4157/github-readme-stats) -->
-### 🤝🏻 &nbsp;Most Used Languages in Github
+### &nbsp;Most Used Languages in Github
 ![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna415741&theme=blue-green)
 
 

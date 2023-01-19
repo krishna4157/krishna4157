@@ -53,6 +53,9 @@
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=krishna4157/krishna4157)
 
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 

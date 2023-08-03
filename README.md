@@ -36,7 +36,8 @@
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
 <br/>
 
-(https://www.codewars.com/users/krishna4157/badges/large)
+![Flutter](https://www.codewars.com/users/krishna4157/badges/large)
+
 <!-- [![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishna4157)](https://github.com/krishna4157/github-readme-stats) -->
 ### &nbsp;Most Used Languages in Github
 ![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna415741&theme=blue-green)

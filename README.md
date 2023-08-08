@@ -5,6 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=soumyadeephalder&color=blueviolet&style=flat">
 </p> -->
 
+
+Proficient in React Native, ReactJS, and Redux and Native Android modules
+Expertise in JavaScript, HTML, CSS, and Node.js
+Familiarity with Agile development methodologies and project management tools like Jira and ClickUp
+
+
 - 🌱 I’m currently working **Redux, React Native, Node.js, python, Typescript, etc.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/krishna4157?tab=repositories)

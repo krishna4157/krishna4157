@@ -4,6 +4,7 @@
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=soumyadeephalder&color=blueviolet&style=flat">
 </p> -->
+Experienced React Native Developer with four years of experience in developing mobile applications. 
 
 
 Proficient in React Native, ReactJS, and Redux and Native Android modules

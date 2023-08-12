@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna Santosh</h1>
-<h3 align="center">Senior Full Stack Developer from India</h3>
+<h3 align="center">Senior Frontend Developer from India</h3>
 	
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=soumyadeephalder&color=blueviolet&style=flat">
